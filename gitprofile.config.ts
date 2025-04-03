@@ -89,7 +89,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'California State University Los Angeles',
-      degree: 'Grahic Design',
+      degree: 'Graphic Design',
       from: '2011',
       to: '2016',
     },
