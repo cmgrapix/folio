@@ -215,7 +215,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `@2025 cmgrapix`,
+  footer: `@2026 cmgrapix`,
 
   enablePWA: true,
 };
