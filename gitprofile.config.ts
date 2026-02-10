@@ -65,6 +65,12 @@ const CONFIG = {
     'Markdown',
     'CSS',
     'HTML',
+    'JavaScript',
+    'Vercel',
+    'Github',
+    'Netlify',
+    'Adobe Photoshop',
+    'Adobe Illustrator',
   ],
   experiences: [
     {
