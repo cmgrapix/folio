@@ -75,9 +75,15 @@ const CONFIG = {
   experiences: [
     {
       company: 'The Law Offices of Sergio Siderman',
-      position: 'Legal Assistant',
+      position: 'Paralegal',
       from: 'April 2023',
       to: 'Present',
+    },
+    {
+      company: 'Martinez Jewelry',
+      position: 'Photo Editor, Data Entry, IT Specialist',
+      from: 'June 2017',
+      to: 'March 2023',
     },
     {
       company: 'NTS Creative Group',
