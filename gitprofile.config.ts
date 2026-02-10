@@ -66,11 +66,16 @@ const CONFIG = {
     'CSS',
     'HTML',
     'JavaScript',
+    'C#',
+    'C',
     'Vercel',
     'Github',
     'Netlify',
+    'Shopify',
+    'Wordpress',
     'Adobe Photoshop',
     'Adobe Illustrator',
+    'Figma'
   ],
   experiences: [
     {
