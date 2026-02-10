@@ -31,9 +31,9 @@ const CONFIG = {
     
   },
   seo: {
-    title: 'Portfolio - cmgrapix',
-    description: '',
-    imageURL: '',
+    title: 'CMGrapix',
+    description: 'Portfolio of an IT support specialist with skills in web systems, graphic design, and photography.',
+    imageURL: 'https://avatars.githubusercontent.com/u/140546088?v=4',
   },
   social: {
     linkedin: '',
