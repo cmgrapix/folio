@@ -53,9 +53,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://cmgrapix.net',
+    website: 'https://cmgrapix.top',
     phone: '',
-    email: 'cm@cmgrapix.net',
+    email: 'carla@cmgrapix.top',
   },
   resume: {
     fileUrl:
