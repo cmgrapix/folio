@@ -79,10 +79,16 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'The Law Offices of Sergio Siderman',
-      position: 'Paralegal',
-      from: 'April 2023',
+      company: 'The Law Offices of Sergio Siderman - Van Nuys Office',
+      position: 'Admin Assistant/Reception',
+      from: 'June 2026',
       to: 'Present',
+    },
+    {
+      company: 'The Law Offices of Sergio Siderman - LA Office',
+      position: 'Paralegal/Legal Assistant',
+      from: 'April 2023',
+      to: 'June 2026',
     },
     {
       company: 'Martinez Jewelry',
@@ -98,6 +104,10 @@ const CONFIG = {
     },
   ],
   certifications: [
+   {
+      name: 'Certified Cybersecurity Educator Professional',
+      year: 'March 2026',
+    },
     {
       name: 'CS50 - Intro to Computer Science',
       year: 'January 2025',
