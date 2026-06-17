@@ -86,7 +86,7 @@ const CONFIG = {
     },
     {
       company: 'The Law Offices of Sergio Siderman - LA Office',
-      position: 'Paralegal/Legal Assistant',
+      position: 'Legal Assistant',
       from: 'April 2023',
       to: 'June 2026',
     },
